@@ -21,7 +21,7 @@ export default function AddDataNew() {
             setName('');
         } catch (error) {
             // Handle errors
-            console.error('Error adding data:', error);
+            console.error('Error adding data:  llos', error);
         }
     };
 
